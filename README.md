@@ -38,7 +38,14 @@ You can find me on [![LinkedIn][3.2]][3].
 ![](https://img.shields.io/badge/Azure-MicrosoftThreatProtection-informational?style=flat)
 ![](https://img.shields.io/badge/Azure-SecurityManagement-informational?style=flat)
 
-
+![](https://img.shields.io/badge/PowerPlatform-Automation-informational?style=flat)
+![](https://img.shields.io/badge/PowerPlatform-PowerApps-informational?style=flat)
+![](https://img.shields.io/badge/PowerPlatform-PowerAutomate-informational?style=flat)
+![](https://img.shields.io/badge/PowerPlatform-PowerBI-informational?style=flat)
+![](https://img.shields.io/badge/PowerPlatform-PowerVirtualAgents-informational?style=flat)
+![](https://img.shields.io/badge/PowerPlatform-InformationProtectionAndGovernance-informational?style=flat)
+![](https://img.shields.io/badge/PowerPlatform-MicrosoftThreatProtection-informational?style=flat)
+![](https://img.shields.io/badge/PowerPlatform-SecurityManagement-informational?style=flat)
 
 
 
