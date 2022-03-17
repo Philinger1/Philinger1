@@ -1,5 +1,4 @@
-[![Header](https://user-images.githubusercontent.com/96050818/158759765-d9d30170-ecda-473a-907e-d080fc8f049e.png "Header")](https://martinheinz.dev/)
-
+![Header](https://user-images.githubusercontent.com/96050818/158772270-46332386-a403-4984-8361-3478ca92caba.png "Header")
 
 
 
@@ -8,8 +7,8 @@
 
 Hi there 👋
 
-My name is Philipp Schindler I am an Azure Consultant. I'm from Germany.
-You can find me on on [![LinkedIn][3.2]][3].
+My name is Philipp Schindler. I am an Azure Consultant. I'm from Germany.
+You can find me on [![LinkedIn][3.2]][3].
 
 
 
